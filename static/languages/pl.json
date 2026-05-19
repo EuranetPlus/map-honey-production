@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Które kraje UE są największymi producentami miodu?",
+  "subtitle": "UE jest drugim co do wielkości producentem miodu na świecie, po Chinach, z produkcją na poziomie 246 000 ton w 2024 r., jednak jest samowystarczalna jedynie w 63%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Komisja Europejska (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "tysiąc ton",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
