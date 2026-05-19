@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Welche EU-Länder sind die größten Honigproduzenten?",
+  "subtitle": "Die EU ist nach China der zweitgrößte Honigproduzent der Welt mit 246.000 Tonnen im Jahr 2024, aber sie ist nur zu 63 % selbstversorgend.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Europäische Kommission (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "tausend Tonnen",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
