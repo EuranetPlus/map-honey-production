@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kuras ES valstis ir lielākās medus ražotājas?",
+  "subtitle": "ES ir pasaulē otrā lielākā medus ražotāja pēc Ķīnas ar 246 000 tonnām 2024. gadā, taču tā ir pašpietiekama tikai 63 % apmērā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Komisija (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "tūkstoši tonnu",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
