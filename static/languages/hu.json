@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Melyek az EU legnagyobb méztermelői?",
+  "subtitle": "Az EU a világ második legnagyobb méztermelője Kína után, 2024-ben 246 000 tonnával, de csak 63%-ban önellátó.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Európai Bizottság (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "ezer tonna",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
